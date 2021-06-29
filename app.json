@@ -4,6 +4,7 @@
   "repository": "https://github.com/eritislami/evobot",
   "logo": "https://i.imgur.com/JFxgbWH.png",
   "keywords": ["discord", "discordjs", "music", "bot"]
+]
 
 TOKEN": "",
   "YOUTUBE_API_KEY": "",
